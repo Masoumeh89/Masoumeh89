@@ -15,9 +15,8 @@
 
 📫 I’m looking for collaboration on data related Projects
 
-🌐 You can connect with me:
-     https://www.linkedin.com/in/masoumeh-khalilzadeh/
-     🌐 [Connect with me on LinkedIn]([https://www.linkedin.com/in/yourname](https://www.linkedin.com/in/masoumeh-khalilzadeh/))
+
+🌐 [Connect with me on LinkedIn]([https://www.linkedin.com/in/yourname](https://www.linkedin.com/in/masoumeh-khalilzadeh/))
  
 
 <!---
