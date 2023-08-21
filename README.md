@@ -1,6 +1,6 @@
 📊 Master's in Statistics
 
-👋 Hi, I’m @Masoumeh89, someone who is on her way to build a career in Data Science and Machine Learning. My major is Statistics and I am improving my skills in programming. I am interested in transforming raw data into valuable knowledge through statistical analysis, machine learning, and visualization.
+👋 Hi, I’m Masoumeh, someone who is on her way to build a career in Data Science and Machine Learning. My major is Statistics and I am improving my skills in programming. I am interested in transforming raw data into valuable knowledge through statistical analysis, machine learning, and visualization.
 
 🌱 I am improving my skills in:
    - Python and R for data analysis, and modeling
