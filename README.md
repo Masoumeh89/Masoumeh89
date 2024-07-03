@@ -2,13 +2,13 @@
 
 👋 Hi, I’m Masoumeh, someone who is on her way to build a career in Data Science and Machine Learning. My major is Statistics and I am improving my skills in programming. I am interested in transforming raw data into valuable knowledge through statistical analysis, machine learning, and visualization.
 
-🌱 I am improving my skills in:
+🌱 My skills are:
    - Python and R for data analysis, and modeling
    - SQL for querying databases and extracting insights
    - Machine Learning frameworks: scikit-learn, TensorFlow
    - Data visualization tools: Matplotlib, Seaborn, ggplot2
      
-🔍 Skills that I am interested to learn in the near future:
+🔍 I am improving my skills in:
    - Deep learning techniques for complex data patterns
    - Big data technologies like Hadoop and Spark
   
